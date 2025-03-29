@@ -1,3 +1,4 @@
+*.key
 *.aux
 *.bcf
 *.fdb_latexmk
